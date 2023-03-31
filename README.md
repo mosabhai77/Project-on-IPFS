@@ -15,6 +15,13 @@ To deploy the project on your local machine try running some of the following ta
 npm install hardhat --save-dev hardhat@2.12.4
 ```
 2)Then the terminal prompts you to install some extra dependencies along with their repective commands, so they must be installed too. 
+
+3)npx hardhat
+
+4)Create a Javascript project( Press Enter)
+
+5)press Y and then Enter.
+
 # Installing React 
  ```
  npm install create-react-app client
